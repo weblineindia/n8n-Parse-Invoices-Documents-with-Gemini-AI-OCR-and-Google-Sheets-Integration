@@ -13,7 +13,7 @@
 
 | Tool            | Purpose                          |
 |-----------------|----------------------------------|
-| **[n8n account](https://n8n.partnerlinks.io/om1efg2qgvwi)** | Workflow automation framework    |
+| **[n8n Account](https://n8n.partnerlinks.io/om1efg2qgvwi)** | Workflow automation framework    |
 | **Google Sheets** | Store structured output         |
 | **Tesseract OCR** | Extract text from scanned images |
 | **Google Gemini** | Natural language parsing & JSON output |
